@@ -14,6 +14,6 @@ The data named as faq is scraped from different websites faq's. It has a lot of 
 ## The MaxEnt Classifier
 The maximum entropy classifier is a classifier that makes no assumptions on the interdependence of 
 features. It can be used to solve a large variety of text classification problems such as language 
-detection, topic classification etc.
+detection, topic classification etc. It is commented out, but definitely the Naive Bayes can also be used.
 
 
