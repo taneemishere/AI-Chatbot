@@ -16,4 +16,7 @@ The maximum entropy classifier is a classifier that makes no assumptions on the 
 features. It can be used to solve a large variety of text classification problems such as language 
 detection, topic classification etc. It is commented out, but definitely the Naive Bayes can also be used.
 
+## Fine-tuning
+Still trying to figure out the bugs to fix in this.
+
 
