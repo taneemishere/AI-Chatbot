@@ -17,6 +17,7 @@ features. It can be used to solve a large variety of text classification problem
 detection, topic classification etc. It is commented out, but definitely the Naive Bayes can also be used.
 
 ## Fine-tuning
-Still trying to figure out the bugs to fix in this. As there is some issues with this.
+Still trying to figure out the bugs to fix in this. As there is some issues with this. 
+I've now another chatbot implemented in Deep Neural Networks that works better than this.
 
 
