@@ -9,7 +9,7 @@ An AI based chatbot that do answers the question you asked, need of modern day's
 	
 
 ## The Data
-The data named as faq is scraped from different websites faq's. It has a lot of text you can go through.
+The data named as "faq" is scraped from different websites faq's. It has a lot of text you can go through.
 
 ## The MaxEnt Classifier
 The maximum entropy classifier is a classifier that makes no assumptions on the interdependence of 
